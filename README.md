@@ -1,5 +1,13 @@
 
+<b>pojaluysta sdelayte sleduyushee: </b>
 
+1) git clone ...
+2) composer update
+3) create env and set up db details
+4) php artisan migrate
+5) create images folder into public folder
+6) php artisan db:seed
+7) php artisan serve
 
 <h1>Тестовое задание для PHP разработчика</h1>
 <h3>Описание</h3>
